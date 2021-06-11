@@ -36,13 +36,6 @@ public class reverse_array{
         display(arr,n);
         
 
-        
-        // int arr[]={1,2,3,4,5,6};
-        // display(arr,size-1);
-        // reverse(arr,0,size-1);
-        // System.out.println("reversed array");
-        // display(arr,6);
-
     }
 
     
